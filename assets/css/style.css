@@ -89,55 +89,55 @@ p {
   background-color: #2589bd;
 }
 /*Lead generation font color and margin*/
-.benefit-lead {
+.benefit-header {
   margin-bottom: 32px;
   color: #ffffff;
 }
-/*Brand awareness font color and margin*/
-.benefit-brand {
+/* Brand awareness font color and margin
+.benefit-header {
   margin-bottom: 32px;
   color: #ffffff;
 }
 /*Cost management font color and margin*/
-.benefit-cost {
+/* .benefit-header {
   margin-bottom: 32px;
-  color: #ffffff;
-}
+  color: #ffffff; */ 
+/* } */
 /*Lead generation header*/
-.benefit-lead h3 {
+.benefit-header h3 {
   margin-bottom: 10px;
   text-align: center;
 }
-/*brand awareness header*/
+/* brand awareness header
 .benefit-brand h3 {
   margin-bottom: 10px;
   text-align: center;
 }
 /*Cost management header*/
-.benefit-cost h3 {
+/* .benefit-cost h3 {
   margin-bottom: 10px;
-  text-align: center;
-}
+  text-align: center; */ 
+
 /*Lead generation image*/
-.benefit-lead img {
+.benefit-header img {
   display: block;
   margin: 10px auto;
   max-width: 150px;
 }
-/*Brand awareness image*/
-.benefit-brand img {
+/* Brand awareness image
+.benefit-header img {
   display: block;
   margin: 10px auto;
   max-width: 150px;
 }
 /*Cost management image*/
-.benefit-cost img {
+/* .benefit-header img {
   display: block;
   margin: 10px auto;
   max-width: 150px;
-}
+}  */
 /* Search engine optimization text box */
-.search-engine-optimization {
+.article-graphic {
   margin-bottom: 20px;
   padding: 50px;
   height: 300px;
@@ -145,7 +145,7 @@ p {
   background-color: #0072bb;
   color: #ffffff;
 }
-/* Online repuation management text box */
+/* Online repuation management text box
 .online-reputation-management {
   margin-bottom: 20px;
   padding: 50px;
@@ -155,40 +155,42 @@ p {
   color: #ffffff;
 }
 /* Social media marketing text box */
-.social-media-marketing {
+/* .social-media-marketing {
   margin-bottom: 20px;
   padding: 50px;
   height: 300px;
   font-family: "Gill Sans", "Gill Sans MT", Calibri, "Trebuchet MS", sans-serif;
   background-color: #0072bb;
   color: #ffffff;
-}
+}  */
+
 /*Search engine image position*/
-.search-engine-optimization img {
+.article-graphic img {
   max-height: 200px;
 }
-/*Online reputation management image position*/
-.online-reputation-management img {
+/* Online reputation management image position
+.article-graphic img {
   max-height: 200px;
 }
-/*Social media marketing image position*/
-.social-media-marketing img {
+Social media marketing image position
+.article-graphic img {
   max-height: 200px;
-}
+} */
+
 /*Searching engine optimization header*/
-.search-engine-optimization h2 {
+.article-graphic h2 {
   margin-bottom: 20px;
   font-size: 36px;
 }
-/*Online reputation management header*/
+/* Online reputation management header
 .online-reputation-management h2 {
   margin-bottom: 20px;
   font-size: 36px;
 }
-/*Social media marketing headers*/
+Social media marketing headers
 .social-media-marketing h2 {
   margin-bottom: 20px;
-  font-size: 36px;
+  font-size: 36px; 
 }
 /*Footer elements*/
 .footer {
