@@ -9,7 +9,7 @@ body {
   background-color: #d9dcd6;
 }
 /*Sets the font, text size, and background color for the header*/
-.header {
+header {
   padding: 20px;
   font-family: "Trebuchet MS", "Lucida Sans Unicode", "Lucida Grande",
     "Lucida Sans", Arial, sans-serif;
