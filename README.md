@@ -1,4 +1,4 @@
-Week 1 Homework Assignment: Code Refactor
+# H1 HW-1-Code-Refactor: Week 1 Homework Assignment
 
 In this assignment, I learned how to make an html file more semantic, providing more clarity and making it accessible to more people.  
 I also made changes to the CSS file to make it more simplified. 
@@ -12,5 +12,5 @@ how to install
 Credits/collaborators (others who were involed)
 License 
 
-Inline-style: 
-![alt text](assets/images/FireShot%20Capture%20001%20-%20website%20-%20127.0.0.1.png "Logo Title Text 1") 
+ 
+![Full Horiseon Web Page](assets/images/HoriseonWebPage.png "Horiseon Web Page") 

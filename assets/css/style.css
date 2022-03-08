@@ -17,16 +17,16 @@ header {
   color: #ffffff;
 }
 /*Hori & n*/
-.header h1 {
+header h1 {
   display: inline-block;
   font-size: 48px;
 }
 /*seo*/
-.header h1 .seo {
+header h1 .seo {
   color: #d9dcd6;
 }
 /*Header links: Search Enginge op, Online rep, Social media*/
-.header nav {
+header nav {
   /* I changed div to nav to make it more semantic and to match the index */
   padding-top: 15px;
   margin-right: 20px;
@@ -35,11 +35,11 @@ header {
   font-size: 20px;
 }
 /*Listying style for header links*/
-.header nav ul {
+header nav ul {
   list-style-type: none;
 }
 /*Positioning between header links*/
-.header nav ul li {
+header nav ul li {
   display: inline-block;
   margin-left: 25px;
 }
@@ -52,7 +52,7 @@ a {
 p {
   font-size: 16px;
 }
-/* Main Image*/
+/*Main Image*/
 .hero {
   height: 800px;
   width: 100%;
@@ -107,7 +107,7 @@ p {
   max-width: 150px;
 }
 
-/* Article text boxes */
+/*Article text boxes*/
 .article-graphic {
   margin-bottom: 20px;
   padding: 50px;
