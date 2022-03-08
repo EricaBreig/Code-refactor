@@ -1,16 +1,23 @@
 # H1 HW-1-Code-Refactor: Week 1 Homework Assignment
 
-In this assignment, I learned how to make an html file more semantic, providing more clarity and making it accessible to more people.  
-I also made changes to the CSS file to make it more simplified. 
+## H2 Horiseon Webpage URL
 
-state what it's for and how I was involved; be specific but not tooooo detailed.
-Title
+[Live Horiseon Webpage](https://ericabreig.github.io/hw-1-code-refactor/)
 
-description
-table of contents ----?
-how to install
-Credits/collaborators (others who were involed)
-License 
+### H3 Implemented Changes
 
- 
-![Full Horiseon Web Page](assets/images/HoriseonWebPage.png "Horiseon Web Page") 
+This project was week 1 of my GA Tech coding bootcamp homework assignment. I was assigned the task of improving the code in this file. To complete this task, I did the following:
+
+- Changed the div tags to appropriate semantitc tags to make this site more accessible for those with disabilities.
+
+- Simplified the CSS file, by removing some redunacncy in the elements and classes.
+
+- Added comments to to explain the purpose of each element and class in relation to the HTML file.
+
+- Added comments to the HMTL file to explain the purpose of each section.
+
+![Full Horiseon Web Page](assets/images/HoriseonWebPage.png "Horiseon Web Page")
+
+### H4 Credit
+
+This page was created for the use of the GA tech coding bootcamp by Trilogy Education Services.
