@@ -1,10 +1,10 @@
-# H1 HW-1-Code-Refactor: Week 1 Homework Assignment
+# Code-Refactor: Week 1 Homework Assignment
 
-## H2 Horiseon Webpage URL
+## Horiseon Webpage URL
 
 [Live Horiseon Webpage](https://ericabreig.github.io/hw-1-code-refactor/)
 
-### H3 Implemented Changes
+### Implemented Changes
 
 This project was week 1 of my GA Tech coding bootcamp homework assignment. I was assigned the task of improving the code in this file. To complete this task, I did the following:
 
